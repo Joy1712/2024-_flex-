@@ -217,7 +217,7 @@ a:active {
 
 /* content結束 */
 
-.course ul {
+.course {
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
@@ -252,7 +252,7 @@ p {
   margin-bottom: 50px;
 }
 
-.different h2 {
+.table caption {
   font-size: 36px;
   font-weight: 700;
   text-align: center;
